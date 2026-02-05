@@ -1,8 +1,8 @@
----
-
 # 📊 Shopify Sales Analytics Dashboard (Power BI)
 
 An interactive **Power BI dashboard** built to analyze Shopify sales performance, customer behavior, and retention metrics. This project transforms raw Shopify data into actionable insights across revenue, customers, geography, products, and time.
+
+---
 
 <img width="1122" height="672" alt="{B9D89A5E-29E5-4611-A544-D1B5EAC60D30}" src="https://github.com/user-attachments/assets/7220d887-acdf-4acf-87e1-26ecb91bb793" />
 

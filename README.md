@@ -123,4 +123,7 @@ Built with **Power BI**, the report is fully interactive with slicers and drill-
 
 If you’d like help extending this dashboard, integrating live data, or deploying it to Power BI Service, feel free to reach out.
 
+* **Name:** Raunaq Chatterjee
+* **LinkedIn:** (https://www.linkedin.com/in/raunaq-chatterjee)
+* **Email:** (chatterjeeraunak5@gmail.com)
 ---
